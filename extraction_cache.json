@@ -1,0 +1,3455 @@
+[
+  {
+    "source_file": "betiq.md",
+    "player_mentions": [
+      {
+        "player_name": "Jared Goff",
+        "team": "DET",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Despite coordinator changes, Detroit remains a top NFC contender with Jared Goff, Amon-Ra St. Brown, and a strong offensive line, projecting for 9.9 wins and sitting firmly in the playoff mix.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Amon-Ra St. Brown",
+        "team": "DET",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Despite coordinator changes, Detroit remains a top NFC contender with Jared Goff, Amon-Ra St. Brown, and a strong offensive line, projecting for 9.9 wins and sitting firmly in the playoff mix.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Drake Maye",
+        "team": "NE",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "New England jumps in the rankings from 30th due to second-year QB Drake Maye and the return of Mike Vrabel and Josh McDaniels to the sideline, accelerating an expected rebound.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Derek Carr",
+        "team": "NO",
+        "position": "QB",
+        "sentiment_score": 3,
+        "context": "New Orleans sinks to 32nd in the rankings after Derek Carr\u2019s offseason retirement, initiating a long-delayed transition for the Saints.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Tyler Shough",
+        "team": "NO",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Rookie Tyler Shough is competing for the starting QB job under new coach Kellen Moore as the Saints begin a long-delayed transition after Derek Carr's retirement.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Spencer Rattler",
+        "team": "NO",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Spencer Rattler is competing for the starting QB job under new coach Kellen Moore as the Saints begin a long-delayed transition after Derek Carr's retirement.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "PIT",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Aaron Rodgers is listed among several veteran quarterbacks who changed teams for 2025, moving to Pittsburgh from the NY Jets.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Fields",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Justin Fields is listed among several veteran quarterbacks who changed teams for 2025, moving to the NY Jets from Pittsburgh.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Russell Wilson",
+        "team": "NYG",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Russell Wilson is listed among several veteran quarterbacks who changed teams for 2025, moving to the NY Giants from Pittsburgh.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Daniel Jones is listed among veteran quarterbacks who changed teams for 2025, moving to Indianapolis and is competing with Anthony Richardson for the Colts\u2019 Week 1 job.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Sam Darnold",
+        "team": "SEA",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Sam Darnold is listed among several veteran quarterbacks who changed teams for 2025, moving to Seattle from Minnesota.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Geno Smith",
+        "team": "LV",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Geno Smith is listed among several veteran quarterbacks who changed teams for 2025, moving to Las Vegas from Seattle.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joe Flacco",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Joe Flacco is listed among veteran quarterbacks who changed teams for 2025, moving to Cleveland, where he is the likely Week 1 starter but could split time with rookies for a rebuilding team.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Anthony Richardson",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Anthony Richardson is competing with Daniel Jones for the Colts\u2019 Week 1 starting quarterback job.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "The Washington Commanders, with rookie QB Jayden Daniels, were a team not expected to turn things around quickly last year but surprisingly made the playoffs.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Bo Nix",
+        "team": "DEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Denver was the biggest surprise in the AFC last year, exceeding low expectations for rookie quarterback Bo Nix.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam Ward",
+        "team": "TEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Tennessee's starting 1st overall pick Cam Ward at quarterback profiles as a sleeper, playing for a team that underachieved last year but has quality skill players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "J.J. McCarthy",
+        "team": "MIN",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Minnesota returns with a new young quarterback, J.J. McCarthy, taking over.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Jefferson",
+        "team": "MIN",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Minnesota will turn to QB Sam Darnold but boasts a lot of offensive weapons led by WR Justin Jefferson and a top offensive coach in Kevin O\u2019Connell.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Kyler Murray",
+        "team": "ARI",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Arizona will have Kyler Murray at the start of the season, and their offense was much better once he returned in the latter half of last year.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Marvin Harrison, Jr.",
+        "team": "ARI",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Arizona adds a top wide receiver, Marvin Harrison, Jr., to the mix, enhancing the offense with Kyler Murray's full-season return.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Caleb Williams",
+        "team": "CHI",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Chicago will try to make a leap in Caleb Williams\u2019 second year after a disappointing rookie campaign.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Dak Prescott",
+        "team": "DAL",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Dallas will hope to have a healthy Dak Prescott back and win shootouts, despite concerns about their defense driving down their odds.",
+        "is_strength": true,
+        "is_concern": false
+      }
+    ],
+    "total_players_found": 23
+  },
+  {
+    "source_file": "cbs.md",
+    "player_mentions": [
+      {
+        "player_name": "Milton Williams",
+        "team": "NE",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "New England added Milton Williams, Carlton Davis, Harold Landry and Robert Spillane, forming the core of a dangerous defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Carlton Davis",
+        "team": "NE",
+        "position": "CB",
+        "sentiment_score": 8,
+        "context": "New England added Milton Williams, Carlton Davis, Harold Landry and Robert Spillane, forming the core of a dangerous defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Harold Landry",
+        "team": "NE",
+        "position": "LB",
+        "sentiment_score": 8,
+        "context": "New England added Milton Williams, Carlton Davis, Harold Landry and Robert Spillane, forming the core of a dangerous defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Robert Spillane",
+        "team": "NE",
+        "position": "LB",
+        "sentiment_score": 8,
+        "context": "New England added Milton Williams, Carlton Davis, Harold Landry and Robert Spillane, forming the core of a dangerous defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Drake Maye",
+        "team": "NE",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Add in Drake Maye \u2014 possibly the best quarterback Vrabel has ever coached \u2014 and the Patriots look primed for a big leap.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Mike Green",
+        "team": "BAL",
+        "position": "UNKNOWN",
+        "sentiment_score": 10,
+        "context": "Ravens second-round pick Mike Green wins Defensive Rookie of the Year. Green is in a perfect situation to rack up sacks in a division filled with quarterbacks who take a lot of hits.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Green is in a perfect situation to rack up sacks in a division filled with quarterbacks who take a lot of hits, including Aaron Rodgers, Joe Burrow and Joe Flacco.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Joe Burrow",
+        "team": "CIN",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Green is in a perfect situation to rack up sacks in a division filled with quarterbacks who take a lot of hits, including Aaron Rodgers, Joe Burrow and Joe Flacco.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Joe Flacco",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "Green is in a perfect situation to rack up sacks in a division filled with quarterbacks who take a lot of hits, including Aaron Rodgers, Joe Burrow and Joe Flacco.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Daniel Jones wins more games than Trevor Lawrence. If Daniel Jones can win more games in Indianapolis than Lawrence does in Jacksonville, it would be a brutal indictment of the former No. 1 overall pick.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trevor Lawrence",
+        "team": "JAX",
+        "position": "QB",
+        "sentiment_score": 2,
+        "context": "This feels like a make-or-break year for Trevor Lawrence, who is just 2-13 in his past 15 starts. If Daniel Jones can win more games in Indianapolis than Lawrence does in Jacksonville, it would be a brutal indictment of the former No. 1 overall pick.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "RJ Harvey",
+        "team": "DEN",
+        "position": "RB",
+        "sentiment_score": 10,
+        "context": "RJ Harvey wins Offensive Rookie of the Year. Sean Payton has a long history of maximizing rookie running backs, and if Payton spent premium draft capital on Harvey, he plans to use him \u2014 a lot.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "J.J. McCarthy",
+        "team": "MIN",
+        "position": "QB",
+        "sentiment_score": 1,
+        "context": "The Vikings\u2019 gamble on J.J. McCarthy goes south. Minnesota is handing the keys to a quarterback with zero career starts, questionable receiver health and minimal chemistry.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Baker Mayfield",
+        "team": "TB",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Baker Mayfield leads the NFL in passing yards. Mayfield is coming off a career year and now adds rookie Emeka Egbuka to a receiving group that already includes Mike Evans and Chris Godwin.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Emeka Egbuka",
+        "team": "TB",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Mayfield is coming off a career year and now adds rookie Emeka Egbuka to a receiving group that already includes Mike Evans and Chris Godwin.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Mike Evans",
+        "team": "TB",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Mayfield is coming off a career year and now adds rookie Emeka Egbuka to a receiving group that already includes Mike Evans and Chris Godwin.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Chris Godwin",
+        "team": "TB",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Mayfield is coming off a career year and now adds rookie Emeka Egbuka to a receiving group that already includes Mike Evans and Chris Godwin.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Brock Purdy wins MVP. With a healthy roster and the league\u2019s easiest schedule, Purdy checks both boxes and could finally get the respect he deserves.",
+        "is_strength": true,
+        "is_concern": false
+      }
+    ],
+    "total_players_found": 18
+  },
+  {
+    "source_file": "golongtd.md",
+    "player_mentions": [
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL MVP by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Micah Parsons",
+        "team": "GB",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Defensive Player of the Year by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Michael Penix Jr",
+        "team": "ATL",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Named one of Tyler Dunne's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Terrion Arnold",
+        "team": "DET",
+        "position": "CB",
+        "sentiment_score": 9,
+        "context": "Named one of Tyler Dunne's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Travis Hunter",
+        "team": "JAX",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Named one of Tyler Dunne's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam Taylor-Britt",
+        "team": "CIN",
+        "position": "CB",
+        "sentiment_score": 9,
+        "context": "Named one of Tyler Dunne's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Matthew Golden",
+        "team": "GB",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Named one of Tyler Dunne's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Fields",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "George Pickens",
+        "team": "DAL",
+        "position": "WR",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Travis Kelce",
+        "team": "KC",
+        "position": "TE",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Chase Young",
+        "team": "NO",
+        "position": "DL",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jalen Ramsey",
+        "team": "PIT",
+        "position": "CB",
+        "sentiment_score": 2,
+        "context": "Named one of Tyler Dunne's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Ashton Jeanty",
+        "team": "LV",
+        "position": "RB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Offensive Rookie of the Year by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Abdul Carter",
+        "team": "NYG",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Defensive Rookie of the Year by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Josh Jacobs",
+        "team": "GB",
+        "position": "RB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Rushing Leader by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Passer Rating Leader by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Malik Nabers",
+        "team": "NYG",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Receiving Yards Leader by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trey Hendrickson",
+        "team": "CIN",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Sack Leader by Tyler Dunne.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL MVP by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Aidan Hutchinson",
+        "team": "DET",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Defensive Player of the Year and NFL Sack Leader by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jared Verse",
+        "team": "LAR",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Named one of Bob McGinn's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Graham Barton",
+        "team": "TB",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "Named one of Bob McGinn's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Josh Downs",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Named one of Bob McGinn's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dee Winters",
+        "team": "SF",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "Named one of Bob McGinn's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyrone Tracy",
+        "team": "NYG",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Named one of Bob McGinn's five breakthrough players.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jaire Alexander",
+        "team": "BAL",
+        "position": "CB",
+        "sentiment_score": 2,
+        "context": "Named one of Bob McGinn's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Will Johnson",
+        "team": "ARI",
+        "position": "CB",
+        "sentiment_score": 2,
+        "context": "Named one of Bob McGinn's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Garrett Bradbury",
+        "team": "NE",
+        "position": "OL",
+        "sentiment_score": 2,
+        "context": "Named one of Bob McGinn's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Sauce Gardner",
+        "team": "NYJ",
+        "position": "CB",
+        "sentiment_score": 2,
+        "context": "Named one of Bob McGinn's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Trevor Penning",
+        "team": "NO",
+        "position": "OL",
+        "sentiment_score": 2,
+        "context": "Named one of Bob McGinn's five most disappointing players.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Tyler Warren",
+        "team": "IND",
+        "position": "TE",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Offensive Rookie of the Year by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Donovan Ezeiruaku",
+        "team": "DAL",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Defensive Rookie of the Year by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Kyren Williams",
+        "team": "LAR",
+        "position": "RB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Rushing Leader by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Passer Rating Leader by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ja\u2019Marr Chase",
+        "team": "CIN",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "Predicted as NFL Receiving Yards Leader by Bob McGinn.",
+        "is_strength": true,
+        "is_concern": false
+      }
+    ],
+    "total_players_found": 35
+  },
+  {
+    "source_file": "nfl.md",
+    "player_mentions": [
+      {
+        "player_name": "Micah Parsons",
+        "team": "DAL",
+        "position": "LB",
+        "sentiment_score": 3,
+        "context": "Micah Parsons' trade request has shaken things up in Dallas, and the Cowboys have been without one of their most indispensable players all camp so far.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jalen Hurts",
+        "team": "PHI",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Jalen Hurts is leading a balanced, mature and dangerous offense, profiling the Eagles as strong contenders once again.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Perennial MVP candidate Lamar Jackson in his prime makes the Ravens a nightmare matchup for most teams.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Derrick Henry",
+        "team": "BAL",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Derrick Henry is still seemingly close to his peak, contributing to the Ravens being a nightmare matchup for most teams.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Travis Kelce",
+        "team": "KC",
+        "position": "TE",
+        "sentiment_score": 4,
+        "context": "The Chiefs' offense has been on a two-year downturn, and there's uncertainty about how much longer Travis Kelce will play beyond this season.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Josh Simmons",
+        "team": "KC",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "If Josh Simmons wins the rookie left tackle job, his performance alongside Kingsley Suamataia will be crucial for protecting Patrick Mahomes' blind side.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Kingsley Suamataia",
+        "team": "KC",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Kingsley Suamataia only lasted a few games at left tackle before being moved to left guard this year, and his performance with Josh Simmons will protect Patrick Mahomes.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Patrick Mahomes",
+        "team": "KC",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The performance of the new left tackle duo will determine if the Chiefs can make strides offensively by protecting Patrick Mahomes' blind side.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Maxwell Hairston",
+        "team": "BUF",
+        "position": "CB",
+        "sentiment_score": 4,
+        "context": "First-round CB Maxwell Hairston is currently sidelined with a knee sprain, which is among the pesky early camp injuries.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Keon Coleman",
+        "team": "BUF",
+        "position": "WR",
+        "sentiment_score": 6,
+        "context": "The Bills might survive some WR injuries if Keon Coleman can stay healthy and make a big jump in Year 2, but that's hardly a guarantee.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Cole Bishop",
+        "team": "BUF",
+        "position": "S",
+        "sentiment_score": 7,
+        "context": "Second-year pro Cole Bishop could help improve the secondary for the Bills with a level-up season.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tre\u2019Davious White",
+        "team": "BUF",
+        "position": "CB",
+        "sentiment_score": 7,
+        "context": "Maxwell Hairston's knee sprain could lead to Tre\u2019Davious White taking a starting gig early on for the Bills.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "The Bills are one of the best teams in football, led by reigning MVP Josh Allen, with winning the division as an obvious goal.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Frank Ragnow",
+        "team": "DET",
+        "position": "OL",
+        "sentiment_score": 2,
+        "context": "The retirement of Frank Ragnow is part of the unfortunate attrition from last season, signaling a potentially bumpier road for the Lions.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Levi Onwuzurike",
+        "team": "DET",
+        "position": "DL",
+        "sentiment_score": 1,
+        "context": "Levi Onwuzurike's season-ending ACL injury contributes to the unfortunate attrition carried over from last season for the Lions.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Aidan Hutchinson",
+        "team": "DET",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Thankfully, Aidan Hutchinson doesn\u2019t appear to be dealing with previous ailments, and he\u2019s apparently been dominating camp practices for the Lions.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyleik Williams",
+        "team": "DET",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "First-round DT Tyleik Williams has impressed in the absence of Levi Onwuzurike and Frank Ragnow, which is a positive sign for the Lions.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tate Ratledge",
+        "team": "DET",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Second-round IOL Tate Ratledge has impressed in the absence of Levi Onwuzurike and Frank Ragnow, which is a positive sign for the Lions.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Isaac TeSlaa",
+        "team": "DET",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Third-round WR Isaac TeSlaa could get a lot of work this preseason and might even crack the rotation early in the regular season for the Lions.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Terry McLaurin",
+        "team": "WAS",
+        "position": "WR",
+        "sentiment_score": 3,
+        "context": "The Terry McLaurin trade request has taken some of the sheen off an otherwise-buzzy offseason for the Commanders.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Tristan Wirfs",
+        "team": "TB",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Tampa Bay's offense has a chance to be among the best, assuming the Tristan Wirfs injury doesn't linger too long.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Emeka Egbuka",
+        "team": "TB",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Rookie WR Emeka Egbuka apparently looks good early, contributing to the strong big-picture operation of the Buccaneers' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Rachaad White",
+        "team": "TB",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "Rachaad White is reportedly slimmed down, which is a positive sign for the Buccaneers' offensive big-picture operation.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Chris Godwin",
+        "team": "TB",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Chris Godwin might be a tough call for Week 1 due to injury concerns, though the Buccaneers' big-picture offense still looks strong.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Jayden Daniels gave the Buccaneers trouble in a playoff loss, highlighting a past defensive struggle for Tampa Bay.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jordan Morgan",
+        "team": "GB",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Left tackle seems to be up in the air for the Packers, with Jordan Morgan attempting to unseat Rasheed Walker.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Rasheed Walker",
+        "team": "GB",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Rasheed Walker is being challenged by Jordan Morgan for the starting left tackle spot, as the position is currently up in the air for the Packers.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Matthew Golden",
+        "team": "GB",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "First-rounder Matthew Golden is making a strong first impression, contributing to the early good returns on the Packers' wide receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jordan Love",
+        "team": "GB",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Jordan Love is entering a critical season where he needs the offensive operation around him to be as clean as possible, especially after dropped passes were an issue last year.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "sentiment_score": 3,
+        "context": "Matthew Stafford is currently dealing with back pain, and keeping him healthy is a major component of the Rams avoiding another slow start.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Davante Adams",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "The analyst questions why the Rams would bring in Davante Adams for significant money if keeping Matthew Stafford healthy isn't prioritized for a strong start.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "J.J. McCarthy",
+        "team": "MIN",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "The biggest coefficient for the Vikings' season is the play of J.J. McCarthy; not everyone is convinced he'll elevate the team, but the analyst is optimistic about his potential.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Bo Nix",
+        "team": "DEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Bo Nix deftly answered a lot of challenges last season, which is a positive sign for the Broncos who are on the verge of breaking through.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trey Hendrickson",
+        "team": "CIN",
+        "position": "DL",
+        "sentiment_score": 3,
+        "context": "Trey Hendrickson is not practicing due to negotiations, and a quick resolution is needed to prevent his status from negatively impacting the Bengals' season.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Ja\u2019Marr Chase",
+        "team": "CIN",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Ja\u2019Marr Chase previously didn't practice much before Week 1 and then didn't play well in early games, serving as a cautionary tale for Trey Hendrickson's current holdout.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Trey Lance",
+        "team": "LAC",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Trey Lance performed well in the Hall of Fame Game, making a stronger push for the backup quarterback job for the Chargers.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The Chargers will realistically go as far as Justin Herbert can carry them, with hope for help from rookies and a reshuffled offensive line.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Taylor Heinicke",
+        "team": "LAC",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "The Chargers had to deal for Taylor Heinicke last August, indicating previous concerns about quarterback depth.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Omarion Hampton",
+        "team": "LAC",
+        "position": "RB",
+        "sentiment_score": 7,
+        "context": "Rookie Omarion Hampton is expected to provide a decent amount of help to Justin Herbert and the Chargers' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tre Harris",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Rookie Tre Harris is expected to provide a decent amount of help to Justin Herbert and the Chargers' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "KeAndre Lambert-Smith",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Rookie KeAndre Lambert-Smith is expected to provide a decent amount of help to Justin Herbert and the Chargers' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "C.J. Stroud",
+        "team": "HOU",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "The Texans clearly have the best quarterback in a weaker division with C.J. Stroud, who has strong chances to move forward after a sideways sophomore campaign.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joe Mixon",
+        "team": "HOU",
+        "position": "RB",
+        "sentiment_score": 3,
+        "context": "Joe Mixon\u2019s availability is murky, which is a concern for the Texans' offensive line and overall offensive outlook.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Nico Collins",
+        "team": "HOU",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "There is uncertainty about Houston's weapons after Nico Collins, implying he is a key receiving option.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Nick Bosa",
+        "team": "SF",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Nick Bosa is back and looks better overall, contributing to the expectation of substantial improvement from the 49ers' defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian McCaffrey",
+        "team": "SF",
+        "position": "RB",
+        "sentiment_score": 4,
+        "context": "Offensively, the Niners need more availability from Christian McCaffrey if Brock Purdy and he are to keep the team in contending ranks.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Ricky Pearsall",
+        "team": "SF",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Ricky Pearsall is an important player for the 49ers this season, playing a key role in the receiver room that needs to sort itself out.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "If Brock Purdy and Christian McCaffrey stay relatively healthy this season, the analyst would be surprised if San Francisco is not back among the contending ranks.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "PIT",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "The Steelers' offense is working through things as it gets Aaron Rodgers up to speed, and anxiety remains over how prolific this unit will be.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Caleb Williams",
+        "team": "CHI",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "There has been some early panic over the play of Caleb Williams following a Family Fest practice, though he finished strong with a touchdown pass.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Kyler Murray",
+        "team": "ARI",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Kyler Murray played pretty well last season, and a breakout year from Marvin Harrison Jr. could level this offense up a notch.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Marvin Harrison Jr.",
+        "team": "ARI",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "A breakout year from Marvin Harrison Jr. could level the Cardinals' offense up a notch, alongside Kyler Murray.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Walter Nolen",
+        "team": "ARI",
+        "position": "DL",
+        "sentiment_score": 4,
+        "context": "Even with rookie Walter Nolen sidelined, the Cardinals' front looks far more capable of collapsing pockets this season.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Darius Robinson",
+        "team": "ARI",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The Cardinals' defensive improvements might depend on how much 2024 first-rounder Darius Robinson and other rookies can contribute.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Will Johnson",
+        "team": "ARI",
+        "position": "UNKNOWN",
+        "sentiment_score": 7,
+        "context": "The Cardinals' defensive improvements might depend on how much rookies like Will Johnson and others can contribute.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jordan Burch",
+        "team": "ARI",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The Cardinals' defensive improvements might depend on how much rookies like Jordan Burch and others can contribute.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Sam Darnold",
+        "team": "SEA",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Sam Darnold is, of course, the biggest X-factor for the Seahawks' offense, which has many new parts.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cooper Kupp",
+        "team": "SEA",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Cooper Kupp is mentioned as the Seahawks' top new receiver in an offense with so many new parts.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Zach Charbonnet",
+        "team": "SEA",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "Zach Charbonnet appears to be making a strong case to share carries with Kenneth Walker III for the Seahawks.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Kenneth Walker III",
+        "team": "SEA",
+        "position": "RB",
+        "sentiment_score": 7,
+        "context": "Zach Charbonnet appears to be making a strong case to share carries with Kenneth Walker III for the Seahawks, indicating a robust run game.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Elijah Arroyo",
+        "team": "SEA",
+        "position": "TE",
+        "sentiment_score": 8,
+        "context": "Rookie playmaker Elijah Arroyo has turned heads early in camp for the Seahawks' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tory Horton",
+        "team": "SEA",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Rookie playmaker Tory Horton has turned heads early in camp for the Seahawks' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Donovan Ezeiruaku",
+        "team": "DAL",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "Second-rounder Donovan Ezeiruaku continues impressing, although the Cowboys still can't count on a consistent pass rush without Micah Parsons.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dak Prescott",
+        "team": "DAL",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "There's a question of how much preseason time Dak Prescott will receive coming off hamstring surgery, as the Cowboys cannot risk their QB getting hurt.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "George Pickens",
+        "team": "DAL",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Dak Prescott needs time to mesh with new WR George Pickens as the Cowboys prepare for the season.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Darnell Mooney",
+        "team": "ATL",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Darnell Mooney is a question mark for Week 1, which may cause the Falcons' offense to lean on the run game until Michael Penix Jr. gets his feet underneath him.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Michael Penix Jr.",
+        "team": "ATL",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "QB Michael Penix Jr. has had some ups and downs in camp, with his accuracy being something to monitor after hitting on 58 percent of his passes in three rookie starts.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "James Pearce Jr.",
+        "team": "ATL",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "James Pearce Jr., a controversial pick, has been an early camp star and looked like an instant contributor as a pass rusher for the Falcons.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jalon Walker",
+        "team": "ATL",
+        "position": "LB",
+        "sentiment_score": 3,
+        "context": "Jalon Walker has been sidelined with a hamstring injury, impacting the Falcons' pass rush depth.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Drake Maye",
+        "team": "NE",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "The Patriots are seemingly focused on the quick passing game and getting the ball out of Drake Maye\u2019s hands quickly with two expected rookie OL starters.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Will Campbell",
+        "team": "NE",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Will Campbell is one of two expected rookie OL starters manning the left side of the line for the Patriots, which may necessitate a quick passing game.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jared Wilson",
+        "team": "NE",
+        "position": "OL",
+        "sentiment_score": 5,
+        "context": "Jared Wilson is one of two expected rookie OL starters manning the left side of the line for the Patriots, which may necessitate a quick passing game.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Christian Gonzalez",
+        "team": "NE",
+        "position": "CB",
+        "sentiment_score": 7,
+        "context": "There is something brewing on the Patriots' defense if they can get Christian Gonzalez and Carlton Davis back on the field.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Carlton Davis",
+        "team": "NE",
+        "position": "CB",
+        "sentiment_score": 7,
+        "context": "There is something brewing on the Patriots' defense if they can get Carlton Davis and Christian Gonzalez back on the field.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Travis Hunter",
+        "team": "JAX",
+        "position": "UNKNOWN",
+        "sentiment_score": 9,
+        "context": "Travis Hunter is expected to play a 60-40 mix on offense and defense for the Jaguars and is already must-see TV.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brian Thomas Jr.",
+        "team": "JAX",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Brian Thomas Jr. should be a fun dance partner alongside Travis Hunter in the Jaguars' offense, but he and Trevor Lawrence still need to fine-tune their connection.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trevor Lawrence",
+        "team": "JAX",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "There's still time for Trevor Lawrence to turn things around for the Jaguars, and he has horses and a scheme to help.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Mac Jones",
+        "team": "JAX",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Brian Thomas Jr. did much of his damage last season with Mac Jones at quarterback, implying a past connection.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Geno Smith",
+        "team": "LV",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "It's easier picturing Geno Smith as part of the Raiders' initial spark this season, contributing to optimism.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brock Bowers",
+        "team": "LV",
+        "position": "TE",
+        "sentiment_score": 8,
+        "context": "It's easier picturing Brock Bowers as part of the Raiders' initial spark this season, contributing to optimism.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jakobi Meyers",
+        "team": "LV",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "It's easier picturing Jakobi Meyers as part of the Raiders' initial spark this season, contributing to optimism.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ashton Jeanty",
+        "team": "LV",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "It's easier picturing Ashton Jeanty as part of the Raiders' initial spark this season, contributing to optimism.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian Wilkins",
+        "team": "LV",
+        "position": "DL",
+        "sentiment_score": 2,
+        "context": "After Christian Wilkins\u2019 release, there\u2019s less talent up front defensively for the Raiders, posing a major objective to improve.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Tua Tagovailoa",
+        "team": "MIA",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Tua Tagovailoa has been sharp early in practice, which is a welcome sign for the Dolphins, and he also earned praise for calling out Tyreek Hill.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyreek Hill",
+        "team": "MIA",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Tua Tagovailoa earned rightful praise for calling out Tyreek Hill and demanding more accountability, raising questions about whether the star receiver is on board.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jaylen Waddle",
+        "team": "MIA",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Jaylen Waddle has been an early camp standout, contributing to the hope that the Dolphins' offense can still thrive.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam Ward",
+        "team": "TEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The analyst is getting a strong feeling about Cam Ward, expecting his presence and exciting arm talent to eventually lift all boats for the Titans.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Calvin Ridley",
+        "team": "TEN",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Calvin Ridley seems energized again and, with Cam Ward, could help compensate for some weaker spots on the Titans' roster.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Anthony Richardson",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Anthony Richardson is in a real quarterback battle, with encouraging practices followed by tougher ones, though he's recently stacked stronger performances.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Daniel Jones is in a real quarterback battle for the Colts, with his performance yo-yoing between encouraging and tougher practices.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyler Warren",
+        "team": "IND",
+        "position": "TE",
+        "sentiment_score": 8,
+        "context": "Rookie Tyler Warren appears to be a precocious rookie who can immediately help whichever quarterback wins the job for the Colts.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Adonai Mitchell",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "WR Adonai Mitchell might be poised for a breakout season, adding potential to the Colts' offense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tetaroia McMillan",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 6,
+        "context": "First-rounder Tetaroia McMillan has flashed some skill amid inconsistencies, contributing to more juice in the Panthers' receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jimmy Horn Jr.",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Fellow rookie Jimmy Horn Jr. has opened eyes as a playmaker for the Panthers, adding to the juice in their receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Xavier Legette",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Xavier Legette looks poised for more in Year 2 for the Panthers, contributing to the improved receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jalen Coker",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Jalen Coker can build on an impressive rookie season for the Panthers, adding to the depth in the receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Adam Thielen",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Adam Thielen remains with the Panthers, contributing to the overall depth and \"juice\" in the receiver room.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "David Moore",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "David Moore remains with the Panthers, contributing to the overall depth and \"juice\" in the receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Hunter Renfrow",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Hunter Renfrow is doing his best to revive his career with the Panthers, adding to the improved receiver room.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Bryce Young",
+        "team": "CAR",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The improved receiver room is a positive for Bryce Young\u2019s development, despite concerns about the Panthers' defense.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Breece Hall",
+        "team": "NYJ",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Breece Hall is one of three quality backs who give the Jets the personnel to successfully implement a new run-game focused approach.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Braelon Allen",
+        "team": "NYJ",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Braelon Allen is one of three quality backs who give the Jets the personnel to successfully implement a new run-game focused approach.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Isaiah Davis",
+        "team": "NYJ",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Isaiah Davis is one of three quality backs who give the Jets the personnel to successfully implement a new run-game focused approach.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Fields",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Justin Fields, a running quarterback, is part of the Jets' personnel well-suited to implement a new run-game focused approach.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Malik Nabers",
+        "team": "NYG",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Malik Nabers was banged up with a shoulder injury early in camp, causing concern, though he appears fine and was tearing up camp beforehand.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Abdul Carter",
+        "team": "NYG",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "The analyst suggests to \"wait until you see Abdul Carter play real games,\" implying exceptional potential for the Giants rookie.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jaxson Dart",
+        "team": "NYG",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "The Giants' strong first-year class could become great if rookie QB Jaxson Dart performs well in Year 1.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyrann Mathieu",
+        "team": "NO",
+        "position": "S",
+        "sentiment_score": 1,
+        "context": "Tyrann Mathieu\u2019s pre-camp retirement was a shock and a blow to the Saints, adding to their current challenges.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Cameron Jordan",
+        "team": "NO",
+        "position": "DL",
+        "sentiment_score": 4,
+        "context": "Cameron Jordan is mentioned as a \"fading star\" for the Saints, contributing to a dim outlook for the team.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Taysom Hill",
+        "team": "NO",
+        "position": "TE",
+        "sentiment_score": 3,
+        "context": "Taysom Hill is mentioned as a \"fading star\" and is currently on the PUP list for the Saints, contributing to a dim outlook.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Quinshon Judkins",
+        "team": "CLE",
+        "position": "RB",
+        "sentiment_score": 1,
+        "context": "Second-round pick Quinshon Judkins was arrested and hasn't participated in team activities since, contributing to a tough camp for the Browns.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Kenny Pickett",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 2,
+        "context": "Kenny Pickett got hurt, throwing a wrench into the Browns' four-QB jamboree and contributing to a difficult camp.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Martin Emerson",
+        "team": "CLE",
+        "position": "CB",
+        "sentiment_score": 1,
+        "context": "CB Martin Emerson suffered a season-ending Achilles injury, making it a difficult camp for the Browns and adding to defensive concerns.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Dillon Gabriel",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Dillon Gabriel has not yet been able to make a big move in the Browns' quarterback battle, making the outcome uncertain.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Shedeur Sanders",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Shedeur Sanders has not yet been able to make a big move in the Browns' quarterback battle, making the outcome uncertain.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jerry Jeudy",
+        "team": "CLE",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "There are questions about the number of weapons available to the Browns' quarterbacks after Jerry Jeudy, implying he is a primary option.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "David Njoku",
+        "team": "CLE",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "There are questions about the number of weapons available to the Browns' quarterbacks after David Njoku, implying he is a primary option.",
+        "is_strength": true,
+        "is_concern": true
+      }
+    ],
+    "total_players_found": 117
+  },
+  {
+    "source_file": "pff.md",
+    "player_mentions": [
+      {
+        "player_name": "Kyler Murray",
+        "team": "ARI",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Arizona could be on the cusp of playoff contention if Kyler Murray finds more week-to-week consistency.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Drew Dalman",
+        "team": "ATL",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Despite losing standout center Drew Dalman in free agency, Atlanta still features one of the NFL\u2019s top offensive lines.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Leonard Floyd",
+        "team": "ATL",
+        "position": "DL",
+        "sentiment_score": 4,
+        "context": "Limited by cap space, their only notable free-agent addition was Leonard Floyd, who posted just a 54.5 pass-rush grade in 2024.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Michael Penix Jr.",
+        "team": "ATL",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "For Atlanta to contend for an NFC South title, Michael Penix Jr. must deliver over a full season.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Derrick Henry",
+        "team": "BAL",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Derrick Henry and Lamar Jackson formed a historically great rushing duo in 2024, powering the Ravens to a 94.5 team PFF rushing grade.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Derrick Henry and Lamar Jackson formed a historically great rushing duo in 2024, powering the Ravens to a 94.5 team PFF rushing grade.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Josh Allen",
+        "team": "BUF",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Buffalo\u2019s MVP-winning quarterback remains the foundation of the team\u2019s success and continued to carry the Bills into Super Bowl contention.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Damien Lewis",
+        "team": "CAR",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Carolina spent significant resources improving its offensive line last offseason, particularly on the interior with the additions of guards Damien Lewis and Robert Hunt.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Robert Hunt",
+        "team": "CAR",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Carolina spent significant resources improving its offensive line last offseason, particularly on the interior with the additions of guards Damien Lewis and Robert Hunt.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Bryce Young",
+        "team": "CAR",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Carolina's improved offensive line gave Bryce Young a chance to succeed from the pocket, and his development is a key factor for the team's success.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Princely Umanmielen",
+        "team": "CAR",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The defensive line should take a step forward with the additions of rookies Princely Umanmielen, Nic Scourton and Cam'Ron Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Nic Scourton",
+        "team": "CAR",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The defensive line should take a step forward with the additions of rookies Princely Umanmielen, Nic Scourton and Cam'Ron Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam'Ron Jackson",
+        "team": "CAR",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The defensive line should take a step forward with the additions of rookies Princely Umanmielen, Nic Scourton and Cam'Ron Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Derrick Brown",
+        "team": "CAR",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "The defensive line should take a step forward with the return of Derrick Brown.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Darnell Wright",
+        "team": "CHI",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Chicago already had a solid tackle duo in Darnell Wright, who ranked 16th among qualified tackles in PFF grade last season.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Braxton Jones",
+        "team": "CHI",
+        "position": "OL",
+        "sentiment_score": 7,
+        "context": "Chicago already had a solid tackle duo in Braxton Jones, who ranked 22nd among qualified tackles in PFF grade last season.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joe Thuney",
+        "team": "CHI",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The team overhauled its interior offensive line this offseason by acquiring Joe Thuney, Drew Dalman and Jonah Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Drew Dalman",
+        "team": "CHI",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The team overhauled its interior offensive line this offseason by acquiring Joe Thuney, Drew Dalman and Jonah Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jonah Jackson",
+        "team": "CHI",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The team overhauled its interior offensive line this offseason by acquiring Joe Thuney, Drew Dalman and Jonah Jackson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Caleb Williams",
+        "team": "CHI",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Few quarterbacks face more pressure this season than Caleb Williams, and if his production matches his elite talent, Chicago could contend for a playoff spot.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Joe Burrow",
+        "team": "CIN",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "When Joe Burrow, Ja'Marr Chase and Tee Higgins are all on the field, the Bengals can compete with anyone.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ja'Marr Chase",
+        "team": "CIN",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "When Joe Burrow, Ja'Marr Chase and Tee Higgins are all on the field, the Bengals can compete with anyone.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tee Higgins",
+        "team": "CIN",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "When Joe Burrow, Ja'Marr Chase and Tee Higgins are all on the field, the Bengals can compete with anyone.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Myles Garrett",
+        "team": "CLE",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "One constant for the Browns is a dominant defensive line led by Myles Garrett, which should keep the team competitive.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joe Flacco",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "This season\u2019s quarterback group includes 40-year-old Joe Flacco and rookies Dillon Gabriel and Shedeur Sanders.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Dillon Gabriel",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "This season\u2019s quarterback group includes 40-year-old Joe Flacco and rookies Dillon Gabriel and Shedeur Sanders.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Shedeur Sanders",
+        "team": "CLE",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "This season\u2019s quarterback group includes 40-year-old Joe Flacco and rookies Dillon Gabriel and Shedeur Sanders.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Micah Parsons",
+        "team": "DAL",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "Although elite edge defender Micah Parsons is gone, the Cowboys were at their most dangerous when forcing opponents into obvious passing situations.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Osa Odighizuwa",
+        "team": "DAL",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "Osa Odighizuwa contributed 60 interior pressures, and the team bolstered its pass-rushing depth this offseason with additions such as Dante Fowler Jr. and Donovan Ezeiruaku.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dante Fowler Jr.",
+        "team": "DAL",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The team bolstered its pass-rushing depth this offseason with additions such as Dante Fowler Jr. and second-round rookie Donovan Ezeiruaku.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Donovan Ezeiruaku",
+        "team": "DAL",
+        "position": "DL",
+        "sentiment_score": 7,
+        "context": "The team bolstered its pass-rushing depth this offseason with additions such as second-round rookie Donovan Ezeiruaku, who could also contribute to shoring up run defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dak Prescott",
+        "team": "DAL",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Dak Prescott will need to prove last year\u2019s struggles were an outlier for the Cowboys to reach the postseason.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Micah Parsons",
+        "team": "GB",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "Micah Parsons, now with the Packers, led all Dallas defensive linemen in run-defense grade at only 65.5.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Courtland Sutton",
+        "team": "DEN",
+        "position": "WR",
+        "sentiment_score": 6,
+        "context": "The Broncos need a pass-catching option beyond Courtland Sutton after ranking 28th in PFF receiving grade last season.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Evan Engram",
+        "team": "DEN",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "One potential boost could come from new tight end Evan Engram, as Denver\u2019s tight ends posted a league-worst 48.0 PFF receiving grade last year.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Aidan Hutchinson",
+        "team": "DET",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Aidan Hutchinson\u2019s season-ending injury derailed the Lions\u2019 pass rush last season, though he was pacing the league with a 95.0 PFF pass-rush grade prior.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jaire Alexander",
+        "team": "GB",
+        "position": "CB",
+        "sentiment_score": 4,
+        "context": "The Packers\u2019 cornerback unit appears shaky heading into the 2025 season, particularly after the loss of veterans Jaire Alexander and Eric Stokes.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Eric Stokes",
+        "team": "GB",
+        "position": "CB",
+        "sentiment_score": 4,
+        "context": "The Packers\u2019 cornerback unit appears shaky heading into the 2025 season, particularly after the loss of veterans Jaire Alexander and Eric Stokes.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Carrington Valentine",
+        "team": "GB",
+        "position": "CB",
+        "sentiment_score": 7,
+        "context": "Carrington Valentine played reasonably well down the stretch last season for the Packers' cornerback unit.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Will Anderson Jr.",
+        "team": "HOU",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "Will Anderson Jr. and Danielle Hunter led the way on the defensive line, each ranking among the top 20 edge rushers in PFF pass-rush grade and pressures.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Danielle Hunter",
+        "team": "HOU",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "Will Anderson Jr. and Danielle Hunter led the way on the defensive line, each ranking among the top 20 edge rushers in PFF pass-rush grade and pressures.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Derek Stingley Jr.",
+        "team": "HOU",
+        "position": "CB",
+        "sentiment_score": 9,
+        "context": "The Texans' secondary features an outstanding cornerback duo in Derek Stingley Jr. and Kamari Lassiter, each of whom placed among the top 12 cornerbacks in PFF coverage grade in 2024.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Kamari Lassiter",
+        "team": "HOU",
+        "position": "CB",
+        "sentiment_score": 9,
+        "context": "The Texans' secondary features an outstanding cornerback duo in Derek Stingley Jr. and Kamari Lassiter, each of whom placed among the top 12 cornerbacks in PFF coverage grade in 2024.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "C.J. Stroud",
+        "team": "HOU",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Houston\u2019s offensive line became its Achilles' heel as C.J. Stroud took the second-most sacks in the NFL.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Laremy Tunsil",
+        "team": "HOU",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "The front office has since traded star left tackle Laremy Tunsil to Washington, leaving the unit without a single player who graded above 70.2 last season.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Josh Downs",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Slot receiver Josh Downs finished 2024 with an 85.1 PFF receiving grade, 11th best in the NFL.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Michael Pittman Jr.",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Michael Pittman Jr. has earned at least a 70.0 PFF receiving grade in four straight seasons.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Alec Pierce",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Alec Pierce ranked 11th in the NFL with a 99.1 deep PFF receiving grade last year.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Adonai Mitchell",
+        "team": "IND",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Adonai Mitchell and rookie tight end Tyler Warren also figure to be factors in the Colts' passing game.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyler Warren",
+        "team": "IND",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "Adonai Mitchell and rookie tight end Tyler Warren also figure to be factors in the Colts' passing game.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Anthony Richardson",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 3,
+        "context": "Anthony Richardson lost the quarterback competition and has posted a 58.7 PFF passing grade across his two NFL seasons.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Daniel Jones came out on top in the quarterback competition, but isn\u2019t as athletic and owns the lowest big-time throw rate of any quarterback with at least 700 dropbacks since 2021.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Brian Thomas Jr.",
+        "team": "JAX",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "2024 rookie sensation Brian Thomas Jr. stunned the league by turning in an 83.4 PFF receiving grade, a top-20 mark, last season.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Travis Hunter",
+        "team": "JAX",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "2025 first-round pick Travis Hunter's 89.0 PFF receiving grade placed seventh in the FBS last season despite his playing nearly 800 snaps at cornerback, and he may need to help in the secondary.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trevor Lawrence",
+        "team": "JAX",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "A healthy Trevor Lawrence and the addition of Travis Hunter give Jacksonville hopes for a bounce-back.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Creed Humphrey",
+        "team": "KC",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "Creed Humphrey and Trey Smith are two excellent interior players for the Chiefs, though the team needs to improve at tackle spots and left guard.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trey Smith",
+        "team": "KC",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "Creed Humphrey and Trey Smith are two excellent interior players for the Chiefs, though the team needs to improve at tackle spots and left guard.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Patrick Mahomes",
+        "team": "KC",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "The Chiefs\u2019 core is still intact with Patrick Mahomes, and it\u2019s hard not to see them as prime AFC contenders, considering their success in the Mahomes era.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Geno Smith",
+        "team": "LV",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The Raiders acquired quarterback Geno Smith to address their low passing grade, and his addition should immediately improve the offense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ashton Jeanty",
+        "team": "LV",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "The Raiders drafted running back Ashton Jeanty to address their low rushing grade, and his addition should immediately improve the offense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ladd McConkey",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Wide receiver Ladd McConkey was outstanding in his rookie season, but the Chargers are searching for pass-catching depth behind him.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joshua Palmer",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Joshua Palmer departed in free agency, contributing to the Chargers' search for pass-catching depth.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Quentin Johnston",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 5,
+        "context": "Quentin Johnston earned a 68.2 PFF receiving grade last season, contributing to concerns about the Chargers' pass-catching depth.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Keenan Allen",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 5,
+        "context": "Keenan Allen earned a 68.2 PFF receiving grade last season, contributing to concerns about the Chargers' pass-catching depth.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Rashawn Slater",
+        "team": "LAC",
+        "position": "OL",
+        "sentiment_score": 2,
+        "context": "Rashawn Slater\u2019s season-ending injury is very concerning for the Chargers' prospects.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Puka Nacua",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "Puka Nacua led the NFL in PFF receiving grade despite missing six games for the Rams' highest-graded wide receiver unit.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cooper Kupp",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "Los Angeles let Cooper Kupp depart, but picked up Davante Adams to bolster their receiving corps.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Davante Adams",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Los Angeles picked up Davante Adams, who earned a 76.8 PFF receiving grade last season, to enhance their receiving unit.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tutu Atwell",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Tutu Atwell and Jordan Whittington are viable options in the Rams' deep wide receiver and tight end rooms.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jordan Whittington",
+        "team": "LAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Tutu Atwell and Jordan Whittington are viable options in the Rams' deep wide receiver and tight end rooms.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyler Higbee",
+        "team": "LAR",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "The Rams have a deep tight end room that features Tyler Higbee, Colby Parkinson and second-round rookie Terrance Ferguson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Colby Parkinson",
+        "team": "LAR",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "The Rams have a deep tight end room that features Tyler Higbee, Colby Parkinson and second-round rookie Terrance Ferguson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Terrance Ferguson",
+        "team": "LAR",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "The Rams have a deep tight end room that features Tyler Higbee, Colby Parkinson and second-round rookie Terrance Ferguson.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The health of Matthew Stafford could be a key to the Rams\u2019 season, as they need their starting quarterback on the field.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Alaric Jackson",
+        "team": "LAR",
+        "position": "OL",
+        "sentiment_score": 7,
+        "context": "The health of Alaric Jackson could be a key to the Rams\u2019 season, ensuring the offensive line can keep the quarterback healthy.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "De'Von Achane",
+        "team": "MIA",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "De'Von Achane has recorded a 92.2 PFF rushing grade over the past two years, placing him second best in the NFL.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jaylen Wright",
+        "team": "MIA",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "Behind Achane is Jaylen Wright, who posted a solid 75.8 PFF rushing grade as a rookie.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyreek Hill",
+        "team": "MIA",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "On the perimeter, Tyreek Hill and Jaylen Waddle combine to form one of the most explosive receiver pairings in the NFL.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jaylen Waddle",
+        "team": "MIA",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "On the perimeter, Tyreek Hill and Jaylen Waddle combine to form one of the most explosive receiver pairings in the NFL.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jalen Ramsey",
+        "team": "MIA",
+        "position": "CB",
+        "sentiment_score": 4,
+        "context": "Jalen Ramsey, one of the two players who kept the Dolphins' cornerback unit afloat, was traded to Pittsburgh.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Kader Kohou",
+        "team": "MIA",
+        "position": "CB",
+        "sentiment_score": 3,
+        "context": "Kader Kohou, one of the two players who kept the Dolphins' cornerback unit afloat, suffered a season-ending knee injury.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Tua Tagovailoa",
+        "team": "MIA",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "If Tua Tagovailoa can play all 17 games, which he\u2019s done just once, then the Dolphins have enough offensive firepower to compete for a playoff spot.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "J.J. McCarthy",
+        "team": "MIN",
+        "position": "QB",
+        "sentiment_score": 5,
+        "context": "J.J. McCarthy is entering his first season as Minnesota\u2019s starting quarterback and is the biggest question mark for the Vikings, with only a handful of preseason snaps on his NFL resume.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Aaron Jones",
+        "team": "MIN",
+        "position": "RB",
+        "sentiment_score": 8,
+        "context": "Including the postseason, Aaron Jones racked up more than 1,600 yards from scrimmage last season as part of J.J. McCarthy's outstanding supporting cast.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Jefferson",
+        "team": "MIN",
+        "position": "WR",
+        "sentiment_score": 10,
+        "context": "Led by Justin Jefferson, the Vikings ranked fourth in the NFL in PFF receiving grade, providing an outstanding supporting cast for their new quarterback.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian Darrisaw",
+        "team": "MIN",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The Vikings could boast one of the NFL\u2019s best offensive line units if Christian Darrisaw and Will Fries stay healthy.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Will Fries",
+        "team": "MIN",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The Vikings could boast one of the NFL\u2019s best offensive line units if Christian Darrisaw and Will Fries stay healthy.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Milton Williams",
+        "team": "NE",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Former Eagle Milton Williams, who led the NFL in PFF pass-rush grade in 2024, and a healthy Christian Barmore could form a dominant interior duo for the Patriots' defense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian Barmore",
+        "team": "NE",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "A healthy Christian Barmore and Milton Williams could form a dominant interior duo for the Patriots' defense.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Drake Maye",
+        "team": "NE",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Any postseason hopes for the Patriots rest with the development of Drake Maye and a very young offense that will take time to jell.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Chris Olave",
+        "team": "NO",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Chris Olave is one of the best pass catchers in the NFL and is part of the Saints' strong receiving options.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Rashid Shaheed",
+        "team": "NO",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Rashid Shaheed and Brandin Cooks are both credible deep threats, comprising part of the Saints' receiving options.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brandin Cooks",
+        "team": "NO",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Rashid Shaheed and Brandin Cooks are both credible deep threats, comprising part of the Saints' receiving options.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Juwan Johnson",
+        "team": "NO",
+        "position": "TE",
+        "sentiment_score": 7,
+        "context": "Juwan Johnson, Foster Moreau and Taysom Hill comprise an interesting tight end room for the Saints.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Foster Moreau",
+        "team": "NO",
+        "position": "TE",
+        "sentiment_score": 6,
+        "context": "Juwan Johnson, Foster Moreau and Taysom Hill comprise an interesting tight end room, though Moreau is still recovering from injuries.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Taysom Hill",
+        "team": "NO",
+        "position": "TE",
+        "sentiment_score": 6,
+        "context": "Juwan Johnson, Foster Moreau and Taysom Hill comprise an interesting tight end room, though Hill is still recovering from injuries.",
+        "is_strength": true,
+        "is_concern": true
+      },
+      {
+        "player_name": "Alvin Kamara",
+        "team": "NO",
+        "position": "RB",
+        "sentiment_score": 9,
+        "context": "Alvin Kamara is still one of the most reliable receivers in the NFL out of the backfield.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dexter Lawrence",
+        "team": "NYG",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Dexter Lawrence is the NFL\u2019s highest-graded defensive tackle over the past three seasons, anchoring a front that could be among the league\u2019s best.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Andrew Thomas",
+        "team": "NYG",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "A healthy Andrew Thomas at left tackle would be a major boost for the Giants after two injury-plagued years.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jon Runyan",
+        "team": "NYG",
+        "position": "OL",
+        "sentiment_score": 4,
+        "context": "Veterans Jon Runyan and Greg Van Roten are back at guard for the Giants, but both graded below average in 2024.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Greg Van Roten",
+        "team": "NYG",
+        "position": "OL",
+        "sentiment_score": 4,
+        "context": "Veterans Jon Runyan and Greg Van Roten are back at guard for the Giants, but both graded below average in 2024.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "John Michael Schmitz Jr.",
+        "team": "NYG",
+        "position": "OL",
+        "sentiment_score": 3,
+        "context": "Center John Michael Schmitz Jr. posted the fourth-lowest PFF pass-blocking grade among qualified players at his position.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jermaine Eluemunor",
+        "team": "NYG",
+        "position": "OL",
+        "sentiment_score": 4,
+        "context": "Right tackle Jermaine Eluemunor has earned a 70.0-plus PFF overall grade in just one of his eight seasons.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Olu Fashanu",
+        "team": "NYJ",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "First-round tackles Olu Fashanu earned a solid 74.7 PFF pass-blocking grade last season at left tackle, and if he lives up to expectations, the Jets could soon feature one of the NFL\u2019s top offensive lines.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Armand Membou",
+        "team": "NYJ",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "First-round tackle Armand Membou ranked third among all FBS tackles in overall grade (90.6) at Missouri, and if he lives up to expectations, the Jets could soon feature one of the NFL\u2019s top offensive lines.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Garrett Wilson",
+        "team": "NYJ",
+        "position": "WR",
+        "sentiment_score": 9,
+        "context": "Garrett Wilson ranks among the NFL\u2019s elite wide receivers, but the Jets lack proven pass-catching depth behind him.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Justin Fields",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "A jump in the win column for the Jets will likely be driven by a resurgent defense and more consistent play from quarterback Justin Fields.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jalen Hurts",
+        "team": "PHI",
+        "position": "QB",
+        "sentiment_score": 6,
+        "context": "Jalen Hurts played lights-out in the final two postseason games but finished the regular season ranked just 23rd in PFF passing grade, highlighting passing-game consistency issues.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "T.J. Watt",
+        "team": "PIT",
+        "position": "LB",
+        "sentiment_score": 10,
+        "context": "Pittsburgh\u2019s pass rush is arguably the most fearsome defensive unit in the NFL, with elite talents like T.J. Watt and Cam Heyward.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam Heyward",
+        "team": "PIT",
+        "position": "DL",
+        "sentiment_score": 10,
+        "context": "Pittsburgh\u2019s pass rush is arguably the most fearsome defensive unit in the NFL, with elite talents like T.J. Watt and Cam Heyward.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Broderick Jones",
+        "team": "PIT",
+        "position": "OL",
+        "sentiment_score": 4,
+        "context": "Broderick Jones is slated to move to left tackle after earning sub-60.0 PFF overall grades on the right side in each of his first two seasons, facing heavy scrutiny.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Troy Fautanu",
+        "team": "PIT",
+        "position": "OL",
+        "sentiment_score": 3,
+        "context": "Second-year man Troy Fautanu played just one game last season before suffering a season-ending knee injury and is projected to start at right tackle where he has logged fewer than 100 snaps.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "PIT",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "If the Steelers protect Rodgers well enough, they have the makings of a playoff team, despite questions about their aging quarterback.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jalen Ramsey",
+        "team": "PIT",
+        "position": "CB",
+        "sentiment_score": 8,
+        "context": "Pittsburgh\u2019s defense should be an elite unit following additions to the secondary, including Jalen Ramsey who was traded from Miami.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Brock Purdy is an above-average starting quarterback, contributing to the 49ers' offensive firepower.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian McCaffrey",
+        "team": "SF",
+        "position": "RB",
+        "sentiment_score": 10,
+        "context": "Christian McCaffrey was the best running back in the NFL in 2023, providing significant offensive star power.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brandon Aiyuk",
+        "team": "SF",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Brandon Aiyuk, Jauan Jennings and Ricky Pearsall comprise a solid group of young wide receivers for the 49ers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jauan Jennings",
+        "team": "SF",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Brandon Aiyuk, Jauan Jennings and Ricky Pearsall comprise a solid group of young wide receivers for the 49ers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ricky Pearsall",
+        "team": "SF",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Brandon Aiyuk, Jauan Jennings and Ricky Pearsall comprise a solid group of young wide receivers for the 49ers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "George Kittle",
+        "team": "SF",
+        "position": "TE",
+        "sentiment_score": 10,
+        "context": "George Kittle is the best tight end in the NFL, adding to the 49ers' offensive star power.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trent Williams",
+        "team": "SF",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "The offensive line is a solid unit headlined by Trent Williams and Dominick Puni.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Dominick Puni",
+        "team": "SF",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "The offensive line is a solid unit headlined by Trent Williams and Dominick Puni.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Nick Bosa",
+        "team": "SF",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Beyond Nick Bosa, San Francisco lacks proven defensive line depth.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Yetur Gross-Matos",
+        "team": "SF",
+        "position": "DL",
+        "sentiment_score": 3,
+        "context": "The team is working with veterans like Yetur Gross-Matos, Kevin Givens and Jordan Elliott, all of whom struggled to perform last season, especially in run defense.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Kevin Givens",
+        "team": "SF",
+        "position": "DL",
+        "sentiment_score": 3,
+        "context": "The team is working with veterans like Yetur Gross-Matos, Kevin Givens and Jordan Elliott, all of whom struggled to perform last season, especially in run defense.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jordan Elliott",
+        "team": "SF",
+        "position": "DL",
+        "sentiment_score": 3,
+        "context": "The team is working with veterans like Yetur Gross-Matos, Kevin Givens and Jordan Elliott, all of whom struggled to perform last season, especially in run defense.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Devon Witherspoon",
+        "team": "SEA",
+        "position": "CB",
+        "sentiment_score": 10,
+        "context": "Third-year man Devon Witherspoon has already proven himself to be one of the best cornerbacks in the NFL, playing either outside or in the slot.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Riq Woolen",
+        "team": "SEA",
+        "position": "CB",
+        "sentiment_score": 9,
+        "context": "Riq Woolen has racked up 11 interceptions and 28 pass breakups in his first three seasons, contributing to a talented secondary.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Julian Love",
+        "team": "SEA",
+        "position": "S",
+        "sentiment_score": 8,
+        "context": "Julian Love earned a career-high 82.2 PFF overall grade last season for the Seahawks.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Nick Emmanwori",
+        "team": "SEA",
+        "position": "S",
+        "sentiment_score": 8,
+        "context": "The team added the uber-athletic Nick Emmanwori in the second round of this year\u2019s draft, further strengthening the secondary.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Sam Darnold",
+        "team": "SEA",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "The offensive line needs to protect Darnold well enough to balance out this team, and if he plays close to as well as he did last season, then there is postseason potential in Seattle.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Antoine Winfield Jr.",
+        "team": "TB",
+        "position": "S",
+        "sentiment_score": 4,
+        "context": "An unusually mediocre season from Antoine Winfield Jr. and coverage struggles at linebacker exposed the Buccaneers\u2019 weaknesses in the middle of the field.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jeffery Simmons",
+        "team": "TEN",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "The star of Tennessee's interior defensive line was Jeffery Simmons, who placed ninth in PFF overall grade and racked up 45 pressures.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cody Barton",
+        "team": "TEN",
+        "position": "LB",
+        "sentiment_score": 5,
+        "context": "The team's only linebacker with significant experience is Cody Barton, who posted a 64.3 PFF overall grade last season in Denver.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Cam Ward",
+        "team": "TEN",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Cam Ward\u2019s development is likely to be the headline story for the Titans this season, barring a Jayden Daniels-esque performance.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WAS",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Barring a Jayden Daniels-esque performance, Cam Ward\u2019s development is likely to be the headline story for the Titans this season.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jayden Daniels",
+        "team": "WASH",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Expectations are rightfully high in Washington, led by Jayden Daniels and newcomers Laremy Tunsil and Deebo Samuel to an already potent offense.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Laremy Tunsil",
+        "team": "WASH",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Newcomer Laremy Tunsil is added to an already potent offense, contributing to high expectations in Washington.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Deebo Samuel",
+        "team": "WASH",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Newcomer Deebo Samuel is added to an already potent offense, contributing to high expectations in Washington.",
+        "is_strength": true,
+        "is_concern": false
+      }
+    ],
+    "total_players_found": 134
+  },
+  {
+    "source_file": "si.md",
+    "player_mentions": [
+      {
+        "player_name": "Micah Parsons",
+        "team": "DAL",
+        "position": "LB",
+        "sentiment_score": 3,
+        "context": "The Cowboys are marred in an idiotic mess of their own making, which led to Micah Parsons\u2019s trade request, and later a potential holdout.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Emmitt Smith",
+        "team": "DAL",
+        "position": "RB",
+        "sentiment_score": 6,
+        "context": "Jerry Jones deeply insulted star player Emmitt Smith in 1993, which was followed by the team winning 12 games and a Super Bowl.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Aaron Rodgers has looked like a 41-year-old working with all new receivers for the first time, implying potential difficulties.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Bradley Chubb",
+        "team": "MIA",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "Bradley Chubb is highlighted as highly underrated in terms of his ability to impact a game, suggesting his strong contribution to the Dolphins' front seven.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyreek Hill",
+        "team": "MIA",
+        "position": "WR",
+        "sentiment_score": 3,
+        "context": "Tyreek Hill is identified as an outward distraction for the Dolphins, contributing to potential locker room issues.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Lamar Jackson has taken a massive leap in leadership this offseason, which is seen as a crucial ingredient for the Ravens to close critical early-season games.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Joe Burrow",
+        "team": "CIN",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "Joe Burrow has been consistently picked as an MVP candidate for the past three preseasons, highlighting his exceptional talent.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Aaron Rodgers",
+        "team": "NYJ",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Rodgers is still acknowledged as a prolific, future Hall of Fame passer who will go down as one of the all-time greats.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Myles Garrett",
+        "team": "CLE",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Myles Garrett is expected to 'cook' against rookie quarterbacks, implying a dominant performance and significant impact on games.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Daniel Jones",
+        "team": "NYG",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Daniel Jones's preseason performance suggested he 'still looks a lot like Daniel Jones' and might be 'overdrafted and already maximized', making the author's Colts prediction feel optimistic.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Anthony Richardson",
+        "team": "IND",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Anthony Richardson clearing out an obvious opportunity for him to take the starting job implies strong potential and performance for the Colts.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Sauce Gardner",
+        "team": "NYJ",
+        "position": "CB",
+        "sentiment_score": 8,
+        "context": "Sauce Gardner is mentioned as a key player contributing to the Jets' 'good' narrative, used as a comparison point for the Jaguars.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Quinnen Williams",
+        "team": "NYJ",
+        "position": "DL",
+        "sentiment_score": 8,
+        "context": "Quinnen Williams is mentioned as a key player contributing to the Jets' 'good' narrative, used as a comparison point for the Jaguars.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Garrett Wilson",
+        "team": "NYJ",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Garrett Wilson is mentioned as a key player contributing to the Jets' 'good' narrative, used as a comparison point for the Jaguars.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Cam Ward",
+        "team": "TEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "There is a 'tremendous display of confidence' in Cam Ward, the No. 1 pick, suggesting he could 'take off' for the Titans.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Rashee Rice",
+        "team": "KC",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "Having Rashee Rice for any extended period of time is considered a 'boon' for Kansas City, highlighting his value to the team.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Patrick Mahomes",
+        "team": "KC",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "A Patrick Mahomes\u2013led team has a basement of 10 wins and a high ceiling, emphasizing his exceptional impact on the Chiefs' success.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Bo Nix",
+        "team": "DEN",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Bo Nix is projected to progress rather than regress, indicating optimism about his development and performance for the Broncos.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Rashawn Slater",
+        "team": "LAC",
+        "position": "OL",
+        "sentiment_score": 3,
+        "context": "Rashawn Slater is described as a 'devastating loss' for the Chargers' offensive line, indicating a significant concern for the team.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Joe Alt",
+        "team": "LAC",
+        "position": "OL",
+        "sentiment_score": 8,
+        "context": "Joe Alt is mentioned as a capable replacement, backing up the 'devastating loss' by moving to left tackle for the Chargers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Trey Pipkins III",
+        "team": "LAC",
+        "position": "OL",
+        "sentiment_score": 7,
+        "context": "Trey Pipkins III is an experienced player slotting over to the right side of the offensive line, providing stability for the Chargers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Ashton Jeanty",
+        "team": "LV",
+        "position": "RB",
+        "sentiment_score": 7,
+        "context": "Ashton Jeanty is highlighted as a key player in developing the Raiders' running game, which could make the team powerful enough to control the clock.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Micah Parsons",
+        "team": "DAL",
+        "position": "LB",
+        "sentiment_score": 3,
+        "context": "The author builds in a three-game losing streak for the Cowboys amid a potential holdout by Micah Parsons, highlighting a significant team concern.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Rashee Rice",
+        "team": "KC",
+        "position": "WR",
+        "sentiment_score": 4,
+        "context": "A hypothetical Giants victory over the Chiefs is partially attributed to the possibility that Rashee Rice may not be with the team, implying his absence is a concern.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Abdul Carter",
+        "team": "NYG",
+        "position": "LB",
+        "sentiment_score": 8,
+        "context": "Abdul Carter is highlighted as a player who could dominate a rookie left tackle early in the season, contributing to a hypothetical Giants victory.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Russell Wilson",
+        "team": "NYG",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "The Giants are predicted to make an 'official switch' from Russell Wilson, implying he is not the long-term solution or underperforms.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jaxon Dart",
+        "team": "NYG",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "The Giants are predicted to make an 'official switch' to Jaxon Dart, with his post-bye victory seen as a major positive for the team.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "T.J. Watt",
+        "team": "PIT",
+        "position": "LB",
+        "sentiment_score": 9,
+        "context": "T.J. Watt is expected to 'cook' against a young passer, contributing to predicted losses for the Vikings and highlighting his significant impact for the Steelers.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Caleb Williams",
+        "team": "CHI",
+        "position": "QB",
+        "sentiment_score": 8,
+        "context": "Caleb Williams is central to the Bears' strategy, with Ben Johnson hired to help him navigate a challenging schedule and lead the team.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Bryce Young",
+        "team": "CAR",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Bryce Young showed strong performance against the Browns, firing the ball with confidence, indicating significant improvement.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tetairoa McMillan",
+        "team": "CAR",
+        "position": "WR",
+        "sentiment_score": 7,
+        "context": "Tetairoa McMillan is liked as a contested deep-ball threat, although he is expected to take time to become proficient in traffic.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Brock Purdy",
+        "team": "SF",
+        "position": "QB",
+        "sentiment_score": 7,
+        "context": "Brock Purdy is mentioned as a source of stability for the 49ers, alongside a potentially healthy Christian McCaffrey.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Christian McCaffrey",
+        "team": "SF",
+        "position": "RB",
+        "sentiment_score": 7,
+        "context": "A 'possibly healthy' Christian McCaffrey is mentioned as providing stability for the 49ers, highlighting his importance when available.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Matthew Stafford",
+        "team": "LAR",
+        "position": "QB",
+        "sentiment_score": 1,
+        "context": "Matthew Stafford is dealing with a back injury, raising significant concerns about his health and the potential for a 'total exercise-imploding injury' for the Rams.",
+        "is_strength": false,
+        "is_concern": true
+      }
+    ],
+    "total_players_found": 31
+  },
+  {
+    "source_file": "skysports.md",
+    "player_mentions": [
+      {
+        "player_name": "Lamar Jackson",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 10,
+        "context": "The Baltimore Ravens are looking strong, especially with Lamar Jackson showing MVP form in practice; his arm talent looks exceptional.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Tyler Huntley",
+        "team": "BAL",
+        "position": "QB",
+        "sentiment_score": 4,
+        "context": "Concerns linger about the depth behind him, particularly with Tyler Huntley having an inconsistent camp, making QB depth a slight concern.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Jalen Carter",
+        "team": "PHI",
+        "position": "DL",
+        "sentiment_score": 9,
+        "context": "Jalen Carter is generating incredible buzz, consistently disrupting plays and looking like a genuine force. He's expected to be a dominant presence, a clear strength.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Darius Slay",
+        "team": "PHI",
+        "position": "CB",
+        "sentiment_score": 6,
+        "context": "While Darius Slay remains a shutdown corner, the young safeties like Sydney Brown are still unproven, representing a potential area for improvement.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Sydney Brown",
+        "team": "PHI",
+        "position": "S",
+        "sentiment_score": 6,
+        "context": "The young safeties like Sydney Brown are still unproven, representing a potential area for improvement rather than a direct concern.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Creed Humphrey",
+        "team": "KC",
+        "position": "OL",
+        "sentiment_score": 9,
+        "context": "Kansas City's offensive line now looks like a significant strength. Creed Humphrey is anchoring the unit superbly, displaying elite technique and leadership.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Kadarius Toney",
+        "team": "KC",
+        "position": "WR",
+        "sentiment_score": 3,
+        "context": "Their receiving corps has faced some scrutiny. Kadarius Toney continues to battle nagging injuries, limiting his availability and raising questions about his reliability.",
+        "is_strength": false,
+        "is_concern": true
+      },
+      {
+        "player_name": "Justin Herbert",
+        "team": "LAC",
+        "position": "QB",
+        "sentiment_score": 9,
+        "context": "Justin Herbert is expected to have another Pro Bowl year, with coaches praising his accuracy and decision-making. He's a cornerstone.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Keenan Allen",
+        "team": "LAC",
+        "position": "WR",
+        "sentiment_score": 8,
+        "context": "The connection with Keenan Allen remains robust, and Allen is still a top-tier route runner, providing a consistent threat.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Austin Ekeler",
+        "team": "LAC",
+        "position": "RB",
+        "sentiment_score": 7,
+        "context": "The run game, specifically Austin Ekeler, has shown some signs of wear and tear, and while still productive, his workload management will be key, slightly tempering expectations.",
+        "is_strength": false,
+        "is_concern": false
+      },
+      {
+        "player_name": "Micah Hyde",
+        "team": "BUF",
+        "position": "S",
+        "sentiment_score": 9,
+        "context": "Micah Hyde and Jordan Poyer form one of the league's most formidable safety duos, providing veteran leadership and consistent playmaking. They are definitely a team strength.",
+        "is_strength": true,
+        "is_concern": false
+      },
+      {
+        "player_name": "Jordan Poyer",
+        "team": "BUF",
+        "position": "S",
+        "sentiment_score": 9,
+        "context": "Micah Hyde and Jordan Poyer form one of the league's most formidable safety duos, providing veteran leadership and consistent playmaking. They are definitely a team strength.",
+        "is_strength": true,
+        "is_concern": false
+      }
+    ],
+    "total_players_found": 12
+  }
+]
