@@ -1,0 +1,14 @@
+name: nfl-ai-pipeline
+channels:
+  - conda-forge 
+dependencies:
+  - python>=3.12
+  - pydantic
+  - llama-index 
+  - litellm
+  - thefuzz
+  - tqdm
+  - aiohttp
+  - pip
+  - pip:
+    - google-generativeai
